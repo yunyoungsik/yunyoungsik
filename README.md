@@ -34,6 +34,12 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
     <!-- -->
+    <p><strong>Framework & Library </strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+    </div>
+    <!-- -->
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
