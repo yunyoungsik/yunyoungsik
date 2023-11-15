@@ -1,31 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%200-Sik%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-
 <div align="left">
+
+<div align="center">
+ <img src="https://tistory4.daumcdn.net/tistory/6662192/skinSetting/d26e6baae4ab49358135c620d63a5f59" />
+</div>
 
 -------
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoungsik&count_bg=%23BABABA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
-[![0-Sik GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoungsik&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/yunyoungsik/github-readme-stats)
- 
-<br>
 
-## 💻 Blog 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://0-sik.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
- 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=0-sik&theme=default)](https://0-sik.tistory.com/)
-</div><br>
-
-## 📞 Contact 📞
+## Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:yunyoungsik91@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-    
-## 🔨 Skill 🔨
+
+## Skill
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- -->
     <p><strong>Database & Cloud Hosting</strong></p>
@@ -51,6 +41,17 @@
         <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"> 
         <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"> 
     </div><br>
+</div>
+
+## BLOG
+<div style="display:flex; flex-direction:row;">
+    <a href="https://0-sik.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+ 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=0-sik&theme=default)](https://0-sik.tistory.com/)
+</div><br>
+
 </div>
 
 
