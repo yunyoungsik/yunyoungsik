@@ -9,7 +9,7 @@
  
 <br>
 
-## 💻 DEV's log 💻
+## 💻 Blog 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://0-sik.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -25,7 +25,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 🔨 Skill 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- -->
     <p><strong>Database & Cloud Hosting</strong></p>
