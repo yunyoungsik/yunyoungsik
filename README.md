@@ -37,6 +37,7 @@
     <p><strong>Framework & Library </strong></p>
     <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/greensock-88CE02?style=flat-square&logo=greensock&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
     </div>
     <!-- -->
