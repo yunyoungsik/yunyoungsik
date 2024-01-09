@@ -1,7 +1,7 @@
 <div align="left">
 
-<div align="center" style="background-color: white; width: 100%; height: auto;">
-    <img src="https://tistory4.daumcdn.net/tistory/6662192/skinSetting/d26e6baae4ab49358135c620d63a5f59" />
+<div align="center">
+    <img src="[https://tistory4.daumcdn.net/tistory/6662192/skinSetting/d26e6baae4ab49358135c620d63a5f59](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnicT8%2FbtsDflMLrk6%2FpD6XLMkkk80xvG4MTfa41k%2Fimg.jpg)" />
 </div>
 
 -------
