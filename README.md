@@ -1,7 +1,7 @@
 <div align="left">
 
 <div align="center">
-    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvLJfD%2FbtsDivN6cFD%2FgHmy0KrGHRjmlqSthfoEOK%2Fimg.jpg" />
+    <img style="width: 100%" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F0E1ik%2FbtsDfk75NZy%2FVj5xrdCtw8bkVXTTb7kSYk%2Fimg.jpg" />
 </div>
 
 -------
