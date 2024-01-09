@@ -1,6 +1,6 @@
 <div align="left">
 
-<div align="center" style="background-color: white; width: 100%; height: 100px;">
+<div align="center" style="background-color: white; width: 100%; height: auto;">
     <img src="https://tistory4.daumcdn.net/tistory/6662192/skinSetting/d26e6baae4ab49358135c620d63a5f59" />
 </div>
 
