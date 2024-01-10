@@ -15,6 +15,15 @@
     </a>
 </div><br>
 
+## Project
+<div style="display:flex; flex-direction:column; align-items:flex-start;>
+        <span>📌Trend Device - [link](https://github.com/yunyoungsik/Trend-Device)</span>
+        <p>
+           Trend Device는 직관적이고 사용하기 편리한 인터페이스를 제공하여 사용자가 원하는 휴대폰 모델을 선택하고, 선택한 모델들을 한눈에 비교할 수 있도록 합니다.<br />
+            각 휴대폰 모델에는 사진, 기술 사양, 가격 등의 정보가 제공되어 사용자가 원하는 정보를 쉽게 찾을 수 있습니다.
+        </p>
+</div>
+
 ## Skill
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- -->
