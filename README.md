@@ -17,12 +17,46 @@
 
 ## Project
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <h3>
-        📌Trend Device - <a href="https://github.com/yunyoungsik/Trend-Device">link</a>
-    </h3>
-    <p>
-   - Trend Device는 직관적이고 사용하기 편리한 인터페이스를 제공하여 사용자가 원하는 휴대폰 모델을 선택하고, 선택한 모델들을 한눈에 비교할 수 있도록 합니다.<br /> 각 휴대폰 모델에는 사진, 기술 사양, 가격 등의 정보가 제공되어 사용자가 원하는 정보를 쉽게 찾을 수 있습니다.
+    <div>
+        <h3>
+            📌Trend Device - <a href="https://github.com/yunyoungsik/Trend-Device">link</a>
+        </h3>
+        <p>
+           - Trend Device는 직관적이고 사용하기 편리한 인터페이스를 제공하여 사용자가 원하는 휴대폰 모델을 선택하고, 선택한 모델들을 한눈에 비교할 수 있도록 합니다.<br /> 각 휴대폰 모델에는 사진, 기술 사양, 가격 등의 정보가 제공되어 사용자가 원하는 정보를 쉽게 찾을 수 있습니다.
         </p>
+    </div>
+    <div>
+        <h3>
+            📌YouTube - <a href="https://github.com/yunyoungsik/youtube-project">link</a>
+        </h3>
+        <p>
+           - React와 YouTube API를 활용한 사이트입니다.<br /> 인기 유튜버들의 구독순 1위부터 30위까지 최신 영상을 제공하며, 사용자는 쉽게 새로운 영상을 찾아 시청할 수 있는 편리한 환경을 경험할 수 있습니다.
+        </p>
+    </div>
+    <div>
+        <h3>
+            📌Movie - <a href="https://github.com/yunyoungsik/movie-project">link</a>
+        </h3>
+        <p>
+           - Vue와 TMDB API를 활용한 이용한 영화 정보 사이트입니다.<br /> 최신 영화 정보와 사용자가 특정 영화 선택하면 상세 정보 볼 수 있습니다.<br /> 포스터, 제목, 개봉일, 평점 등 사용자들이 관심 있는 영화 정보를 쉽게 얻을 수 있습니다.
+        </p>
+    </div>
+    <div>
+        <h3>
+            📌Kickoff - <a href="https://github.com/audgns722/kickoff">link</a>
+        </h3>
+        <p>
+           - React와 축구 API를 이용하여 만든 축구 정보와 하이라이트를 제공하는 웹사이트입니다.<br /> 경기 결과, 일정, 리그 테이블 같은 정보를 API로 받아오며, 하이라이트 비디오도 제공합니다.
+        </p>
+    </div>
+    <div>
+        <h3>
+            📌Portfolio - <a href="https://github.com/yunyoungsik/portfolio-react">link</a>
+        </h3>
+        <p>
+           - React를 이용하여 만든 포트폴리오는 웹사이트입니다.<br /> 직접 제작한 웹사이트의 간단한 설명과 링크, 깃허브 링크를 제공하고 있습니다.
+        </p>
+    </div>
 </div>
 
 ## Skill
