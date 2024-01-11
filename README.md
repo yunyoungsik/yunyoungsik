@@ -62,7 +62,7 @@
             📌Promptopia - <a href="https://github.com/yunyoungsik/promptopia">link</a>
         </h3>
         <p>
-           - 사용자에게 AI-Powered Prompts를 탐색하고 공유할 수 있는 기회를 제공합니다.<br /> 깔끔한 디자인과 함께 간략한 설명을 제공하여 사용자가 페이지를 이해하고 쉽게 접근할 수 있도록 합니다.
+           - Next.js를 이용하여 만든 AI Prompt 공유 웹사이트입니다.<br />사용자에게 AI-Powered Prompts를 탐색하고 공유할 수 있는 기회를 제공합니다.<br /> 깔끔한 디자인과 함께 간략한 설명을 제공하여 사용자가 페이지를 이해하고 쉽게 접근할 수 있도록 합니다.
         </p>
     </div>
 </div>
