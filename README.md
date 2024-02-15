@@ -27,6 +27,22 @@
     </div>
     <div>
         <h3>
+            📌Kickoff - <a href="https://github.com/audgns722/kickoff">link</a>
+        </h3>
+        <p>
+           - React와 축구 API를 이용하여 만든 축구 정보와 하이라이트를 제공하는 웹사이트입니다.<br /> 경기 결과, 일정, 리그 테이블 같은 정보를 API로 받아오며, 하이라이트 비디오도 제공합니다.
+        </p>
+    </div>
+    <div>
+        <h3>
+            📌8world - <a href="https://8world.co.kr">link</a>
+        </h3>
+        <p>
+           - Next.js와 Palworld API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.<br /> Google Adsense 및 Google Adsense, SEO도 적용 시켰습니다.
+        </p>
+    </div>
+    <div>
+        <h3>
             📌Trend Device - <a href="https://github.com/yunyoungsik/Trend-Device">link</a>
         </h3>
         <p>
@@ -47,14 +63,6 @@
         </h3>
         <p>
            - Vue와 TMDB API를 활용한 이용한 영화 정보 사이트입니다.<br /> 최신 영화 정보와 사용자가 특정 영화 선택하면 상세 정보 볼 수 있습니다.<br /> 포스터, 제목, 개봉일, 평점 등 사용자들이 관심 있는 영화 정보를 쉽게 얻을 수 있습니다.
-        </p>
-    </div>
-    <div>
-        <h3>
-            📌Kickoff - <a href="https://github.com/audgns722/kickoff">link</a>
-        </h3>
-        <p>
-           - React와 축구 API를 이용하여 만든 축구 정보와 하이라이트를 제공하는 웹사이트입니다.<br /> 경기 결과, 일정, 리그 테이블 같은 정보를 API로 받아오며, 하이라이트 비디오도 제공합니다.
         </p>
     </div>
 </div>
