@@ -35,7 +35,7 @@
     </div>
     <div>
         <h3>
-            📌8world - <a href="https://8world.co.kr">link</a>
+            📌8world - <a href="https://github.com/yunyoungsik/8world-palworld-">link</a>
         </h3>
         <p>
            - Next.js와 Palworld API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.<br /> Google Adsense 및 Google Tag Manager, SEO도 적용 시켰습니다.
