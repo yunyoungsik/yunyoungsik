@@ -43,6 +43,14 @@
     </div>
     <div>
         <h3>
+            📌미정 - <a href="https://mabinogi-heroes.vercel.app/">link</a>
+        </h3>
+        <p>
+           - Next.js와 Nexon Open API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.
+        </p>
+    </div>
+    <div>
+        <h3>
             📌Trend Device - <a href="https://github.com/yunyoungsik/Trend-Device">link</a>
         </h3>
         <p>
