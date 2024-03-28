@@ -55,7 +55,7 @@
     </div>
     <div>
         <h3>
-            📌마비노기영웅전 검색 사이트 - <a href="https://mabinogi-heroes.vercel.app/">link</a>
+            📌마비노기영웅전 검색 사이트 - <a href="https://github.com/yunyoungsik/MabinogiHeroes/">link</a>
         </h3>
         <p>
            - Next.js와 Tailwind, Nexon Open API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.
