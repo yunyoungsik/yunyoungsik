@@ -19,7 +19,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <h3>
-            📌FC Online 검색 사이트 - <a href="https://github.com/YunJiSung/FC_ONLINE/">link</a>
+            📌FC Online 검색 사이트 - <a href="https://github.com/yunyoungsik/FC_Onlie">link</a>
         </h3>
         <p>
            - Next.js와 Nexon Open API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.
