@@ -116,6 +116,7 @@
     <p><strong>Framework & Library </strong></p>
     <div>
         <img src="https://img.shields.io/badge/greensock-88CE02?style=flat-square&logo=greensock&logoColor=white">
+        <img src="https://img.shields.io/badge/swiper-6332F6?style=flat-square&logo=swiper&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
     </div>
     <!-- -->
@@ -131,7 +132,6 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> 
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-        <img src="https://img.shields.io/badge/swiper-6332F6?style=flat-square&logo=swiper&logoColor=white">
     </div><br>
 </div>
 
