@@ -25,7 +25,7 @@
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다. 
         </p>
     </div>
-    </div>
+</div><br/>
 
 ## Project
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
