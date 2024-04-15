@@ -19,7 +19,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <h3>
-            📌FCON.KR - <a href="https://fc-on.vercel.app">link</a>
+            📌FCON.KR - <a href="https://github.com/yunyoungsik/FC_Online_Public">link</a>
         </h3>
         <p>
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.<br /> MongoDB를 사용하여 공지사항을 제작,  NextAuth를 이용하여 구글로그인을 구현, Google Adsense 및 GoogleSearchConsole을 연동하였습니다.
