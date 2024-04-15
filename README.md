@@ -16,16 +16,6 @@
 </div><br>
 
 ## Work
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <div>
-        <h3>
-            📌FC Online 검색 사이트 - <a href="https://fc-on.vercel.app">link</a>
-        </h3>
-        <p>
-           - Next.js와 Nexon Open API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.
-        </p>
-    </div>
-</div>
 
 ## Project
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -36,6 +26,16 @@
         <p>
            - React를 이용하여 만든 포트폴리오는 웹사이트입니다.<br /> 직접 제작한 웹사이트의 간단한 설명과 링크, 깃허브 링크를 제공하고 있습니다.
         </p>
+    </div>
+    <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <div>
+        <h3>
+            📌FC Online 검색 사이트 - <a href="https://fc-on.vercel.app">link</a>
+        </h3>
+        <p>
+           - Next.js와 Nexon Open API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.
+        </p>
+    </div>
     </div>
     <div>
         <h3>
