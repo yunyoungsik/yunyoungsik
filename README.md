@@ -30,10 +30,10 @@
     <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <h3>
-            📌FC Online 검색 사이트 - <a href="https://fc-on.vercel.app">link</a>
+            📌FCON.KR - <a href="https://fc-on.vercel.app">link</a>
         </h3>
         <p>
-           - Next.js와 Nexon Open API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.
+           - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.
         </p>
     </div>
     </div>
@@ -58,7 +58,7 @@
             📌마비노기영웅전 검색 사이트 - <a href="https://github.com/yunyoungsik/MabinogiHeroes/">link</a>
         </h3>
         <p>
-           - Next.js와 Tailwind, Nexon Open API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.
+           - Next.js와 Tailwind, Nexon Open API를 이용하여 만든 유저 정보를 검색하는 웹사이트입니다.
         </p>
     </div>
     <div>
