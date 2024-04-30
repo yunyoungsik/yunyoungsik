@@ -138,10 +138,8 @@
 ## BLOG
 <div style="display:flex; flex-direction:row;">
     <a href="https://0-sik.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+        <img src="https://img.shields.io/badge/0SikBlog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
- 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=0-sik&theme=default)](https://0-sik.tistory.com/)
 </div><br>
 
 </div>
