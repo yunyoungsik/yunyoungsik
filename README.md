@@ -15,9 +15,9 @@
     </a>
 </div><br>
 
-## Work
+## Project
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <div>
+     <div>
         <h3>
             📌FCON.KR - <a href="https://github.com/yunyoungsik/FC_Online_Public">link</a>
         </h3>
@@ -25,10 +25,6 @@
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.<br /> MongoDB 및 NextAuth, Google Adsense, GoogleSearchConsole 등 사용 및 연동되어있습니다.
         </p>
     </div>
-</div><br/>
-
-## Project
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <h3>
             📌Portfolio - <a href="https://github.com/yunyoungsik/portfolio-react">link</a>
