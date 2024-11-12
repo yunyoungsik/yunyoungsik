@@ -24,6 +24,9 @@
         <p>
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.<br /> MongoDB 및 NextAuth, Google Adsense, GoogleSearchConsole 등 사용 및 연동되어있습니다.
         </p>
+        <p>
+           - <a href="http://fcon.kr">사이트 바로가기</a>
+        </p>
     </div>
      <div>
         <h3>
@@ -31,6 +34,9 @@
         </h3>
         <p>
            - Next.js와 Palworld API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.<br /> Google Adsense 및 Google Tag Manager, GoogleSearchConsole, SEO도 작업하였습니다.
+        </p>
+        <p>
+           - <a href="http://8world.kr">사이트 바로가기</a>
         </p>
     </div>
     <div>
