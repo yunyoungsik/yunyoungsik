@@ -25,7 +25,7 @@
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.<br /> MongoDB 및 NextAuth, Google Adsense, GoogleSearchConsole 등 사용 및 연동되어있습니다.
         </p>
         <p>
-           - <a href="http://fcon.kr">사이트 바로가기</a>
+           - <a href="http://fcon.co.kr">사이트 바로가기</a>
         </p>
     </div>
      <div>
