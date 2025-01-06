@@ -19,7 +19,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <div>
         <h3>
-            📌FCON.KR - <a href="https://github.com/yunyoungsik/FC_Online_Public">link</a>
+            📌FC Online 검색 사이트 - <a href="https://github.com/yunyoungsik/FC_Online_Public">link</a>
         </h3>
         <p>
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.<br /> MongoDB 및 NextAuth, Google Adsense, GoogleSearchConsole 등 사용 및 연동되어있습니다.
@@ -30,7 +30,7 @@
     </div>
      <div>
         <h3>
-            📌8world - <a href="https://github.com/yunyoungsik/8world-palworld-">link</a>
+            📌팰월드 검색 사이트 - <a href="https://github.com/yunyoungsik/8world-palworld-">link</a>
         </h3>
         <p>
            - Next.js와 Palworld API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.<br /> Google Adsense 및 Google Tag Manager, GoogleSearchConsole, SEO도 작업하였습니다.
