@@ -19,6 +19,17 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <div>
         <h3>
+            📌PocketTrade - <a href="">link</a>
+        </h3>
+        <p>
+           - Next.js와 MongoDB를 이용하여 만든 포켓몬스터 카드게임 Pocket 카드 교환과 카드 정보를 제공하는 웹사이트입니다.<br /> MongoDB 등 사용 및 연동되어있습니다.
+        </p>
+        <p>
+           - <a href="https://pocket-trade-theta.vercel.app/">사이트 바로가기</a>
+        </p>
+    </div>
+     <div>
+        <h3>
             📌FC Online 검색 사이트 - <a href="https://github.com/yunyoungsik/FC_Online_Public">link</a>
         </h3>
         <p>
