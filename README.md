@@ -19,7 +19,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <div>
         <h3>
-            📌PocketTrade - <a href="">link</a>
+            📌포켓몬 카드 게임 트레이드 사이트 - <a href="">link</a>
         </h3>
         <p>
            - Next.js와 MongoDB를 이용하여 만든 포켓몬스터 카드게임 Pocket 카드 교환과 카드 정보를 제공하는 웹사이트입니다.<br /> MongoDB 등 사용 및 연동되어있습니다.
