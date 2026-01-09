@@ -29,7 +29,7 @@
     </div>
      <div>
         <h3>
-            📌FC Online 검색 사이트 - <a href="https://github.com/yunyoungsik/FC_Online_Public">link</a>
+            📌FC Online 검색 사이트
         </h3>
         <p>
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.<br /> MongoDB 및 NextAuth, Google Adsense, GoogleSearchConsole 등 사용 및 연동되어있습니다.
@@ -161,6 +161,7 @@
 </div><br>
 
 </div>
+
 
 
 
