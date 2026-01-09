@@ -17,14 +17,17 @@
     </a>
 </div><br>
 
-## Project
+## Service
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-     <div>
+    <div>
         <h3>
-            📌포켓몬 카드 게임 트레이드 사이트 - <a href="https://github.com/yunyoungsik/pocket-trade">link</a>
+            📌마비노기영웅전 검색 사이트 - <a href="https://github.com/yunyoungsik/MabinogiHeroes_Public">link</a>
         </h3>
         <p>
-           - Next.js와 MongoDB를 이용하여 만든 포켓몬스터 카드게임 Pocket 카드 교환과 카드 정보를 제공하는 웹사이트입니다.<br /> MongoDB 등 사용 및 연동되어있습니다.
+           - Next.js와 Tailwind, Nexon Open API를 이용하여 만든 유저 정보를 검색하는 웹사이트입니다.
+        </p>
+        <p>
+           - <a href="https://www.mhon.kr">사이트 바로가기</a>
         </p>
     </div>
      <div>
@@ -49,7 +52,11 @@
            - <a href="https:/8world.vercel.app">사이트 바로가기</a>
         </p>
     </div>
-    <div>
+</div>
+
+## Project
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+     <div>
         <h3>
             📌Portfolio - <a href="https://github.com/yunyoungsik/portfolio-next">link</a>
         </h3>
@@ -60,23 +67,20 @@
            - <a href="https://yunyoungsik.vercel.app/">사이트 바로가기</a>
         </p>
     </div>
+     <div>
+        <h3>
+            📌포켓몬 카드 게임 트레이드 사이트 - <a href="https://github.com/yunyoungsik/pocket-trade">link</a>
+        </h3>
+        <p>
+           - Next.js와 MongoDB를 이용하여 만든 포켓몬스터 카드게임 Pocket 카드 교환과 카드 정보를 제공하는 웹사이트입니다.<br /> MongoDB 등 사용 및 연동되어있습니다.
+        </p>
+    </div>
     <div>
         <h3>
             📌Kickoff - <a href="https://github.com/audgns722/kickoff">link</a>
         </h3>
         <p>
            - React와 축구 API를 이용하여 만든 축구 정보와 하이라이트를 제공하는 웹사이트입니다.<br /> 경기 결과, 일정, 리그 테이블 같은 정보를 API로 받아오며, 하이라이트 비디오도 제공합니다.
-        </p>
-    </div>
-    <div>
-        <h3>
-            📌마비노기영웅전 검색 사이트 - <a href="https://github.com/yunyoungsik/MabinogiHeroes_Public">link</a>
-        </h3>
-        <p>
-           - Next.js와 Tailwind, Nexon Open API를 이용하여 만든 유저 정보를 검색하는 웹사이트입니다.
-        </p>
-        <p>
-           - <a href="https://www.mhon.kr">사이트 바로가기</a>
         </p>
     </div>
     <div>
@@ -161,6 +165,7 @@
 </div><br>
 
 </div>
+
 
 
 
