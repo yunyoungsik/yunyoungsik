@@ -49,7 +49,7 @@
            - Next.js와 Palworld API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.<br /> Google Adsense 및 Google Tag Manager, GoogleSearchConsole, SEO도 작업하였습니다.
         </p>
         <p>
-           - <a href="https:/8world.vercel.app">사이트 바로가기</a>
+           - <a href="https://8world.vercel.app/">사이트 바로가기</a>
         </p>
     </div>
 </div>
@@ -165,6 +165,7 @@
 </div><br>
 
 </div>
+
 
 
 
