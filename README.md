@@ -5,8 +5,10 @@
 </div>
 
 -------
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunyoungsik&count_bg=%23BABABA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
+-->
 
 ## Contact
 <div style="display:flex; flex-direction:row;">
@@ -19,13 +21,10 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <div>
         <h3>
-            📌포켓몬 카드 게임 트레이드 사이트 - <a href="">link</a>
+            📌포켓몬 카드 게임 트레이드 사이트 - <a href="https://github.com/yunyoungsik/pocket-trade">link</a>
         </h3>
         <p>
            - Next.js와 MongoDB를 이용하여 만든 포켓몬스터 카드게임 Pocket 카드 교환과 카드 정보를 제공하는 웹사이트입니다.<br /> MongoDB 등 사용 및 연동되어있습니다.
-        </p>
-        <p>
-           - <a href="https://pocket-trade-theta.vercel.app/">사이트 바로가기</a>
         </p>
     </div>
      <div>
@@ -36,7 +35,7 @@
            - Next.js와 Nexon Open API를 이용하여 만든 FC 온라인 유저와 선수 정보를 검색하는 웹사이트입니다.<br /> MongoDB 및 NextAuth, Google Adsense, GoogleSearchConsole 등 사용 및 연동되어있습니다.
         </p>
         <p>
-           - <a href="http://fcon.kr">사이트 바로가기</a>
+           - <a href="https://fcon-kr.vercel.app/">사이트 바로가기</a>
         </p>
     </div>
      <div>
@@ -47,15 +46,18 @@
            - Next.js와 Palworld API를 이용하여 만든 게임 정보를 검색하는 웹사이트입니다.<br /> Google Adsense 및 Google Tag Manager, GoogleSearchConsole, SEO도 작업하였습니다.
         </p>
         <p>
-           - <a href="http://8world.co.kr">사이트 바로가기</a>
+           - <a href="https:/8world.vercel.app">사이트 바로가기</a>
         </p>
     </div>
     <div>
         <h3>
-            📌Portfolio - <a href="https://github.com/yunyoungsik/portfolio-react">link</a>
+            📌Portfolio - <a href="https://github.com/yunyoungsik/portfolio-next">link</a>
         </h3>
         <p>
-           - React를 이용하여 만든 포트폴리오는 웹사이트입니다.<br /> 직접 제작한 웹사이트의 간단한 설명과 링크, 깃허브 링크를 제공하고 있습니다.
+           - Next.js를 이용하여 만든 포트폴리오는 웹사이트입니다.<br /> 직접 제작한 웹사이트의 간단한 설명과 링크, 깃허브 링크를 제공하고 있습니다.
+        </p>
+         <p>
+           - <a href="https://yunyoungsik.vercel.app/">사이트 바로가기</a>
         </p>
     </div>
     <div>
@@ -68,10 +70,13 @@
     </div>
     <div>
         <h3>
-            📌마비노기영웅전 검색 사이트 - <a href="https://github.com/yunyoungsik/MabinogiHeroes/">link</a>
+            📌마비노기영웅전 검색 사이트 - <a href="https://github.com/yunyoungsik/MabinogiHeroes_Public">link</a>
         </h3>
         <p>
            - Next.js와 Tailwind, Nexon Open API를 이용하여 만든 유저 정보를 검색하는 웹사이트입니다.
+        </p>
+        <p>
+           - <a href="https://www.mhon.kr">사이트 바로가기</a>
         </p>
     </div>
     <div>
@@ -156,5 +161,6 @@
 </div><br>
 
 </div>
+
 
 
